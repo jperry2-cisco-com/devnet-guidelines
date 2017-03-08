@@ -1,0 +1,26 @@
+{
+  "labId": "00-labs-03-mac-docker-llp-setup",
+  "title": "Setting Up The Learning Labs Previewer On macOS With Docker",
+  "slug": "Learn how to write set up the Learning Labs Previewer on macOS.",
+  "time": 45,
+  "byod": true,
+  "files": [
+      {"title": "1.md"},
+      {"title": "2.md"},
+      {"title": "3.md"},
+      {"title": "4.md"}
+  ],
+  "tags": [
+	{"title": "LLP macOS Docker Setup"}	
+  ],
+  "related": [
+    {    
+		"labId": "00-basic-02-basic_template",
+		"title": "Basic Lab Template"	
+    }
+  ],      
+  "authors": [
+      {"name": "mikel evins", "email": "mikel@evins.net"}
+  ],
+  "active": true
+}
